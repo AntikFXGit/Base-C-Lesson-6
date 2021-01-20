@@ -97,7 +97,7 @@ namespace Base_C_Lesson_6
             int numStop = f.getAnswer("[0-9]{1,}");
 
             // Результат расчета функции, поиск минимума:
-            Console.WriteLine("Результат расчета функции (пользовательский выбор функции) - "+ numStart + " / " + numStop + ":");
+            Console.WriteLine("Результат расчета функции (пользовательский выбор функции):");
             f.SaveData(functions[fId], "data.bin", numStart, numStop, 0.5);
             Console.WriteLine(f.LoadData("data.bin"));
             
