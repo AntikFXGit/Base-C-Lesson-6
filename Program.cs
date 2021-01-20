@@ -12,14 +12,13 @@ namespace Base_C_Lesson_6
         static void Main(string[] args)
         {
             // Задание 1.
-            //Task1();
+            Task1();
 
             // Задание 2.
             Task2();
 
             // Задание 3. (не будет выполнятся т.к. нет файла с данными: students_1.csv, есть только описание структуры, по этому идем "по приборам" и без теста.)
             //Task3();
-
 
             Console.ReadKey();
         }
