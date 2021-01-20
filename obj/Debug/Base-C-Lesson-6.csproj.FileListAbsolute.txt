@@ -1,0 +1,7 @@
+C:\Users\Ant1K\Documents\GitHub\Base-C-Lesson-6\Base-C-Lesson-6\bin\Debug\Base-C-Lesson-6.exe.config
+C:\Users\Ant1K\Documents\GitHub\Base-C-Lesson-6\Base-C-Lesson-6\bin\Debug\Base-C-Lesson-6.exe
+C:\Users\Ant1K\Documents\GitHub\Base-C-Lesson-6\Base-C-Lesson-6\bin\Debug\Base-C-Lesson-6.pdb
+C:\Users\Ant1K\Documents\GitHub\Base-C-Lesson-6\Base-C-Lesson-6\obj\Debug\Base-C-Lesson-6.csprojAssemblyReference.cache
+C:\Users\Ant1K\Documents\GitHub\Base-C-Lesson-6\Base-C-Lesson-6\obj\Debug\Base-C-Lesson-6.csproj.CoreCompileInputs.cache
+C:\Users\Ant1K\Documents\GitHub\Base-C-Lesson-6\Base-C-Lesson-6\obj\Debug\Base-C-Lesson-6.exe
+C:\Users\Ant1K\Documents\GitHub\Base-C-Lesson-6\Base-C-Lesson-6\obj\Debug\Base-C-Lesson-6.pdb
